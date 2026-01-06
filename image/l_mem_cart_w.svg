@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_19493" data-name="사각형 19493" width="30" height="23" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_48517" data-name="그룹 48517" transform="translate(-154 -921)">
+    <g id="그룹_48516" data-name="그룹 48516" transform="translate(154 924)">
+      <g id="그룹_48515" data-name="그룹 48515" clip-path="url(#clip-path)">
+        <g id="그룹_48514" data-name="그룹 48514" transform="translate(0 0)">
+          <g id="그룹_48513" data-name="그룹 48513" clip-path="url(#clip-path)">
+            <image id="사각형_19491" data-name="사각형 19491" width="29.165" height="23" transform="translate(0 0)" xlink:href="data:image/png;base64,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"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_19495" data-name="사각형 19495" width="30" height="30" transform="translate(154 921)" fill="none"/>
+  </g>
+</svg>

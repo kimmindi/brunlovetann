@@ -1,0 +1,24 @@
+<svg id="그룹_48488" data-name="그룹 48488" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_19470" data-name="사각형 19470" width="23" height="23" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="사각형_19469" data-name="사각형 19469" width="22.999" height="23" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 46, 0)" viewBox="0 0 23 22.753">
+      <image preserveAspectRatio="none" width="23" height="22.753" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="그룹_48487" data-name="그룹 48487" clip-path="url(#clip-path)">
+    <g id="그룹_48486" data-name="그룹 48486" transform="translate(0.001 0)">
+      <g id="그룹_48485" data-name="그룹 48485" clip-path="url(#clip-path-2)">
+        <g id="그룹_48484" data-name="그룹 48484" transform="translate(-0.001 0)">
+          <g id="그룹_48483" data-name="그룹 48483" transform="translate(0 0)" clip-path="url(#clip-path)">
+            <rect id="사각형_19467" data-name="사각형 19467" width="23" height="22.753" transform="translate(0)" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

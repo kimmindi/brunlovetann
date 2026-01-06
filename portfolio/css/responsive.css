@@ -1,0 +1,1553 @@
+@charset "utf-8";
+
+
+
+
+
+
+
+@media screen and (max-width:1880px) {
+
+    .intro .ticket1 .spark img:nth-child(4) {
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width:1863px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.23rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 28%;
+    }
+
+}
+
+@media screen and (max-width:1804px) {
+
+    header .headerinner .headertitle h1 {
+        font-size: 9rem;
+    }
+
+    header .headertop p {
+        font-size: 1.8rem;
+    }
+
+    header .headerinner .headertitle p {
+        font-size: 1.5rem;
+    }
+
+    header .headerwrap .menu ul li a {
+        font-size: 2rem;
+    }
+
+    .lastsection h1 {
+        font-size: 3rem;
+        word-break: keep-all;
+    }
+}
+
+
+
+@media screen and (max-width:1802px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width:1766px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.15rem;
+    }
+}
+
+@media screen and (max-width:1740px) {
+    .lastsection h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width:1705px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.1rem;
+    }
+}
+
+
+@media screen and (max-width:1700px) {
+    .intro .ticket1 .topticket>img {
+        top: 40%;
+        padding: 0;
+    }
+
+    .section3 .designinner .film {
+        height: 50%;
+    }
+
+    .lastsection h1 {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (max-width:1682px) {
+
+    /* html {
+        font-size: 14px;
+    } */
+
+
+    .section3 .designinner .swiper.design .swiper-slide {
+        height: 55vh;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 36%;
+        left: 22%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 27%;
+        left: 15%;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        width: 55%;
+        margin-left: 3rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.95rem;
+    }
+
+    main .section1 .castwrap .castleft .tag {
+        padding-left: 5%;
+    }
+
+    main .section1 .castwrap .castright .info h3 {
+        font-size: 1.1rem;
+        padding: 1.2rem 0 1.5rem 1.3rem;
+    }
+
+    main .section1 .castwrap .castleft .opening {
+        margin-left: 11%;
+    }
+
+    main .section1 .castwrap .castright .info .edu h3 {
+        background: url('../img/educationvetor.jpg')no-repeat left center/150px;
+
+    }
+
+    main .section1 .castwrap .castright .info .contact h3 {
+        background: url('../img/contactvetor.jpg')no-repeat left center/135px;
+    }
+
+    main .section1 .castwrap .castright .info .exper h3 {
+        background: url('../img/Experiencevector.jpg')no-repeat left center/160px;
+    }
+
+    main .section1 .castwrap .castright .info .skills h3 {
+        background: url('../img/skillsvector.jpg')no-repeat left center/105px;
+    }
+
+    main .section1 .castwrap .castright .info .skills .skicon {
+        padding: 0.4rem;
+    }
+
+    .lastsection h1 {
+        width: 90%;
+    }
+
+}
+
+@media screen and (max-width:1655px) {
+    main .section1 .castwrap .castleft .union {
+        width: 55%;
+        margin-left: 3rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.93rem;
+    }
+}
+
+@media screen and (max-width:1636px) {
+    .lastsection h1 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1627px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.9rem;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:1603px) {
+    main .section1 .castwrap .castleft .union {
+        width: 55%;
+        margin-left: 3rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.9rem;
+    }
+
+    main .section1 .castwrap .castleft .tag {
+        padding-left: 5%;
+    }
+
+    main .section1 .castwrap .castleft {
+        width: 50%;
+    }
+
+    main .section1 .castwrap .castright {
+        width: 60%;
+    }
+
+    .section3 .designinner .swiper.design {
+        height: 40%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after p {
+        padding-top: 60%;
+    }
+
+
+
+}
+
+@media screen and (max-width:1566px) {
+    main .section1 .castwrap .castleft .union {
+        width: 55%;
+        margin-left: 3rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.85rem;
+    }
+}
+
+
+
+@media screen and (max-width:1550px) {
+    .intro .ticket1 .topticket>img {
+        top: 44%;
+        width: 50%;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.85rem;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 33%;
+        left: 20%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 26%;
+        left: 13%;
+    }
+
+}
+
+@media screen and (max-width:1497px) {
+    main .section1 .castwrap .castleft .union {
+        width: 55%;
+        margin-left: 2.5rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.8rem;
+    }
+
+    .lastsection h1 {
+        width: 60%;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 1.2rem;
+
+    }
+}
+
+
+
+
+
+@media screen and (max-width:1474px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.8rem;
+    }
+
+    main .section1 .castwrap .castleft .opening h3 {
+        font-size: 1rem;
+    }
+
+    main .section1 .castwrap .castleft .opening p {
+        font-size: 0.9rem;
+    }
+
+    header {
+        height: 100vh;
+    }
+
+    header .headerwrap {
+        padding-bottom: 0;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 25%;
+    }
+}
+
+@media screen and (max-width:1440px) {
+    header .headerwrap .menu {
+        padding-top: 15%;
+    }
+
+    header .headerinner .headertitle {
+        padding: 6% 0;
+    }
+
+    main .section1 {
+        padding: 3% 0;
+    }
+
+    .intro .ticket1 .topticket>img {
+        top: 40%;
+        width: 53%;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 1rem;
+    }
+
+    .section2 .webpage .tabtitle li {
+        padding-top: 1rem;
+        font-size: 0.75rem;
+        text-align: center;
+    }
+
+    .pop {
+        width: 70%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after {
+        top: 45%;
+    }
+}
+
+@media screen and (max-width:1429px) {
+    main .section1 .castwrap .castleft .union {
+        width: 58%;
+        margin-left: 2rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width:1400px) {
+    .introtext h4 {
+        left: 39%;
+    }
+
+    .introtext p {
+        left: 40%;
+    }
+
+    main .section1 .castwrap .castright .info p {
+        font-size: 1.1rem;
+    }
+
+    main .section1 .castwrap .castright .skills p {
+        font-size: 0.9rem;
+    }
+
+    main .section1 .castwrap .castright {
+        margin-top: 3rem;
+    }
+}
+
+
+@media screen and (max-width:1360px) {
+    main .section1 .castwrap .castleft .union {
+        width: 60%;
+        margin-left: 2rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.8rem;
+    }
+
+    /* main .section1 .castwrap .castleft .name p {
+        top: 2%;
+    } */
+}
+
+@media screen and (max-width:1349px) {
+    .lastinner h1 {
+        width: 65%;
+    }
+}
+
+
+@media screen and (max-width:1315px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.75rem;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        font-size: 3.2rem;
+        left: 19%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        font-size: 3.5rem;
+        left: 13%;
+    }
+
+    main .section1 .castwrap .castright .info p {
+        font-size: 1rem;
+    }
+}
+
+
+@media screen and (max-width:1252px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.73rem;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        font-size: 3.1rem;
+        left: 18%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        font-size: 3.3rem;
+        left: 10%;
+    }
+}
+
+@media screen and (max-width:1227px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.72rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 25%;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 0.5rem;
+    }
+}
+
+@media screen and (max-width:1214px) {
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.7rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 23%;
+    }
+}
+
+@media screen and (max-width:1189px) {
+    main .section1 .castwrap .castleft .union {
+        width: 65%;
+        margin-left: 1rem;
+    }
+
+    .intro .ticket1 .topticket>img {
+        width: 57%;
+        top: 38%;
+    }
+
+    .intro .ticket1 .click {
+        top: 20%;
+    }
+
+    .introtext h4 {
+        left: 38%;
+    }
+
+    .introtext p {
+        left: 38%;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 0.3rem;
+    }
+
+    .lastinner h1 {
+        width: 80%;
+    }
+}
+
+
+@media screen and (max-width:1123px) {
+    header .headerwrap .menu {
+        padding-top: 25%;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        width: 65%;
+        margin-left: 0rem;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        left: 16%;
+        top: 30%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        left: 8%;
+        top: 23%;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 0.25rem;
+    }
+
+    main .section1 .castwrap .castleft .opening {
+        margin-left: 3%;
+    }
+
+    main .section1 .castwrap .castleft .opening h4 {
+        font-size: 1.6rem;
+    }
+}
+
+
+@media screen and (max-width:1102px) {
+    main .section1 .castwrap .castleft .union {
+        width: 70%;
+        margin-left: 0rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 20%;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width:1038px) {
+    main .section1 .castwrap .castleft .union {
+        width: 70%;
+        margin-left: 0rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.65rem;
+    }
+}
+
+
+
+@media screen and (max-width:1024px) {
+
+    .intro .ticket1 .topticket>img {
+        top: 35%;
+        width: 60%;
+        height: 100%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(1) {
+        width: 47%;
+        left: 18%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(2) {
+        width: 14.1%;
+        right: 20.8%;
+    }
+
+    .intro .ticket1 .click {
+        top: 25%;
+    }
+
+    .introtext h4 {
+        left: 35%;
+
+    }
+
+    .introtext p {
+        left: 35%;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 24%;
+    }
+
+    header .headerinner .headertitle h1 {
+        font-size: 7rem;
+    }
+
+    header .headerinner .headertitle p {
+        font-size: 1.3rem;
+    }
+
+    main .section1 {
+        padding: 2% 0 3% 0;
+    }
+
+    main .section1>h1 {
+        padding-bottom: 1%;
+    }
+
+    main .section1 .castwrap .castleft {
+        text-align: center;
+        padding: 0;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 8%;
+        left: 18%;
+        font-size: 3.2rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: 0%;
+        left: 17%;
+        font-size: 3rem;
+    }
+
+    main .section1 .castwrap .castleft img:nth-child(1) {
+        margin: 0;
+    }
+
+    main .section1 .castwrap .castleft .opening h4 {
+        margin-top: 2rem;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        width: 90%;
+        margin: 5px 0 0 50px;
+    }
+
+    main .section1 .castwrap .castleft .opening {
+        margin: 0;
+    }
+
+    main .section1 .castwrap .castleft .tag {
+        justify-content: center;
+        padding: 0;
+        gap: 1%;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.5rem;
+    }
+
+    main .section1 .castwrap .castleft .opening p {
+        font-size: 1.2rem;
+    }
+
+    main .section1 .castwrap .castright {
+        margin-top: 2rem;
+    }
+
+    main .section1 .castwrap .castright .flex {
+        justify-content: space-between;
+    }
+
+    main .section1 .castwrap .castright .info p {
+        font-size: 1.3rem;
+    }
+
+    main .section1 .castwrap .castright .info h3 {
+        font-size: 1.3rem;
+    }
+
+    main .section1 .castwrap .castright .info .edu h3 {
+        background: url('../img/educationvetor.jpg')no-repeat left center/133px;
+    }
+
+    main .section1 .castwrap .castright .info .contact h3 {
+        background: url('../img/contactvetor.jpg')no-repeat left center/115px;
+    }
+
+    main .section1 .castwrap .castright .info .exper h3 {
+        background: url('../img/Experiencevector.jpg')no-repeat left center/140px;
+    }
+
+    main .section1 .castwrap .castright .info .skills h3 {
+        background: url('../img/skillsvector.jpg')no-repeat left center/90px;
+    }
+
+    main .section1 .castwrap .castright .info h3 {
+        font-size: 1.1rem;
+        padding: 1.2rem 0 1.5rem 1.3rem;
+    }
+
+    main .section1 .castwrap .castright .info .edu,
+    main .section1 .castwrap .castright .info .exper {
+        padding-bottom: 2rem;
+    }
+
+    main .section1 .castwrap .castright .info .skills p {
+        font-size: 0.9rem;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 1.2rem;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1 {
+        margin-bottom: 0.5rem;
+    }
+
+    .section2 .section2inner {
+        justify-content: space-between;
+    }
+
+    .section2 .webpage {
+        width: 65%;
+    }
+
+    .section2 .webpage .tabtitle {
+        width: 90%;
+    }
+
+    main .section1 .castwrap .castright .flex {
+        display: flex;
+        gap: 10%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-wrapper {
+        height: 50vh;
+    }
+
+    .section3 .designinner .swiper.design {
+        height: 50vh;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after {
+        top: 40%;
+    }
+
+    main .section1 .castwrap {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main .section1 .castwrap .castleft {
+        width: 100%;
+    }
+
+    .pop {
+        width: 80%;
+    }
+
+
+    footer .lastsection .lastinner {
+        width: 90%;
+    }
+
+}
+
+@media screen and (max-width : 1024px) {
+    header .headertop p {
+        font-size: 1.6rem;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 30%;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 4%;
+        left: 16%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: -5%;
+        left: 15%;
+        
+    }
+
+      main .section1 .castwrap .castleft .union {
+        margin: 0px 0 0 100px;
+       
+        z-index: 99;
+        width: 75%;
+    }
+
+
+    main .section1 .castwrap .castright .info h3 {
+        padding: 1.2rem 0 1.5rem 0.8rem;
+    }
+
+    .lastinner h1 {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width : 884px) {
+    header .headertop p {
+        font-size: 1.4rem;
+    }
+}
+
+
+@media screen and (max-width : 870px) {
+    .introtext h4 {
+        left: 31%;
+    }
+
+    .introtext p {
+        left: 31%;
+    }
+
+    header .headerinner .headertitle h1 {
+        font-size: 6rem;
+    }
+
+    header .headerinner .headertitle p {
+        font-size: 1.2rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.3rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: -5%;
+        left: 10%;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 4%;
+        left: 12%;
+    }
+
+}
+
+@media screen and (max-width : 777px) {
+    header .headerinner .headertitle {
+        padding-top: 10%;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 60%;
+    }
+
+    header .headertop p {
+        font-size: 1.2rem;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.2rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+         top: -5%;
+        left: 5%;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+         top: 4%;
+        left: 10%;
+    }
+}
+
+
+
+
+@media screen and (max-width : 768px) {
+    .intro .ticket1 .topticket>img {
+        top: 30%;
+        width: 63%;
+        height: 100%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(1) {
+        width: 50%;
+        left: 16%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(2) {
+        width: 15%;
+        right: 18.9%;
+    }
+
+    .intro .ticket1 .click {
+        top: 27%;
+        left: 65%;
+    }
+
+    .introtext h4 {
+        left: 31%;
+    }
+
+    .introtext p {
+        left: 31%;
+    }
+
+    .intro .ticket1 .spark img:nth-child(1),
+    .intro .ticket1 .spark img:nth-child(2),
+    .intro .ticket1 .spark img:nth-child(3),
+    .intro .ticket1 .spark img:nth-child(4) {
+        display: none;
+    }
+
+    main .section1 header .headerinner .headertitle {
+        padding-top: 10%;
+    }
+
+    header .headertop p {
+        font-size: 1.3rem;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 45%;
+    }
+
+    header .headerwrap .menu ul li a {
+        font-size: 1.8rem;
+    }
+
+    header .headerwrap .menu ul li p {
+        font-size: 1.5rem;
+    }
+
+    header .headerinner .headertitle p {
+        font-size: 1.1rem;
+    }
+
+    main .section1 {
+        padding: 5% 0;
+    }
+
+    header .headerinner .headertitle {
+        padding-top: 15%;
+    }
+
+    main .section1 .castwrap .castright .flex {
+        flex-direction: column;
+    }
+
+    main .section1 .castwrap .info {
+        text-align: center;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 4%;
+        left: 16%;
+        font-size: 3.2rem;
+        letter-spacing: 0;
+
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: -5%;
+        left: 15%;
+        font-size: 2.6rem;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        margin: 0px 0 0 50px;
+        position: absolute;
+        top: 270px;
+        z-index: 99;
+        width: 85%;
+    }
+
+    main .section1 .castwrap .castleft img:nth-child(1) {
+        margin-bottom: 15%;
+    }
+
+
+    .section2 .section2inner {
+        flex-direction: column;
+    }
+
+    .section2 .pagetitle {
+        padding-bottom: 2.5rem;
+    }
+
+    .section2 .webpage {
+        width: 100%;
+    }
+
+    .section2 .section2inner .webinfowrap {
+        padding-top: 50px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .section2 .webinfo .bt {
+        justify-content: center;
+    }
+
+    main .section1 .castwrap .castright {
+        width: 60%;
+    }
+
+    main .section1 .castwrap .castright .info .edu h3 {
+        background: url('../img/educationvetor.jpg')no-repeat center/133px;
+    }
+
+    main .section1 .castwrap .castright .info .contact h3 {
+        background: url('../img/contactvetor.jpg')no-repeat center/115px;
+    }
+
+    main .section1 .castwrap .castright .info .exper h3 {
+        background: url('../img/Experiencevector.jpg')no-repeat center/140px;
+    }
+
+    main .section1 .castwrap .castright .info .skills h3 {
+        background: url('../img/skillsvector.jpg')no-repeat center/90px;
+    }
+
+    main .section1 .castwrap .castright .info h3 {
+        font-size: 1.1rem;
+        padding: 1.2rem 0 1.5rem 0rem;
+    }
+
+    main .section1 .castwrap .castright .info .edu,
+    main .section1 .castwrap .castright .info .exper {
+        padding-bottom: 2rem;
+    }
+
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+
+        gap: 0.8rem;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1 {
+        margin-bottom: 0.8rem;
+    }
+
+    main .section1 .castwrap .castright .info .edu,
+    main .section1 .castwrap .castright .info .exper,
+    main .section1 .castwrap .castright .info .contact {
+        padding-bottom: 2rem;
+    }
+
+    main .section1 .castwrap .castright .info .exper p:nth-child(2) {
+        padding-bottom: 1rem;
+    }
+
+    .section3 .designinner .film .dashtop {
+        top: 7.5px;
+    }
+
+    .pop {
+        width: 80%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after {
+        top: 50%;
+    }
+
+    footer .lastsection .lastinner {
+        width: 100%;
+    }
+
+    .lastsection h1 {
+        font-size: 2.2rem;
+        word-break: keep-all;
+    }
+
+    .lastinner .gotop{
+        left: 60%;
+    }
+  
+    
+    
+}
+
+
+@media screen and (max-width:678px) {
+    header .headertop p {
+        font-size: 1.2rem;
+    }
+
+    header .headerinner .headertitle h1 {
+        font-size: 5.5rem;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 50%;
+    }
+
+    .introtext h4 {
+        left: 28%;
+    }
+
+    .introtext p {
+        left: 28%;
+    }
+}
+
+@media screen and (max-width:425px) {
+    html {
+        font-size: 12px;
+    }
+
+    .intro .ticket1 .topticket>img {
+        width: 70%;
+        top: 20%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(1) {
+        width: 57%;
+        left: 12%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(2) {
+        width: 17%;
+        right: 14%;
+    }
+
+    .intro .ticket1 .click {
+        top: 30%;
+        left: 66%;
+    }
+
+    .introtext h4 {
+        left: 24%;
+    }
+
+    .introtext p {
+        left: 24%;
+    }
+
+    header {
+        height: 80vh;
+    }
+
+    header .headertop p {
+        font-size: 1rem;
+        margin-top: 2.2rem;
+    }
+
+    header .headertop p::before,
+    header .headertop p::after {
+        height: 1.5px;
+    }
+
+    header .headerinner .headertitle {
+        padding-top: 25%;
+    }
+
+    header .headerinner .headertitle h1 {
+        font-size: 4.5rem;
+
+    }
+
+    header .headerinner .headertitle p {
+        font-size: 0.85rem;
+    }
+
+    header .headerwrap .menu {
+        padding-top: 80%;
+    }
+
+    header .headerwrap .menu ul li a {
+        font-size: 1.5rem;
+    }
+
+    header .headerwrap .menu ul li p {
+        font-size: 1.3rem;
+    }
+
+    main .section1 {
+        background: none;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        top: 3%;
+        left: 9%;
+        font-size: 3rem;
+        letter-spacing: 0;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        top: -4.5%;
+        left: 5%;
+        font-size: 2.2rem;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        margin: 0px 0 0 30px;
+        position: absolute;
+        top: 135px;
+        z-index: 99;
+    }
+
+    main .section1 .castwrap .castleft img:nth-child(1) {
+        margin-bottom: 15%;
+    }
+
+    main .section1 .castwrap .castleft .tag {
+        justify-content: center;
+        padding: 0;
+        gap: 1%;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.2rem;
+    }
+
+    main .section1 .castwrap .castright {
+        width: 75%;
+    }
+
+    main .section1 .castwrap .castright .info .skills .sk1,
+    main .section1 .castwrap .castright .info .skills .sk2 {
+        gap: 0.3rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section2 .pagetitle {
+        padding-top: 3%;
+    }
+
+    .section2 .webpage .tabtitle li {
+        font-size: 0.6rem;
+        padding-top: 1rem;
+    }
+
+    .section2 .webpage {
+        height: 450px;
+        overflow: hidden;
+
+    }
+
+    .section3 .designinner .film .dashtop {
+        top: 7px;
+    }
+
+    .pop {
+        width: 80%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after {
+        top: 45%;
+    }
+
+    .section3 .designinner .film .dashbottom {
+        bottom: 127px;
+    }
+
+    .section3 .designinner .swiper.design .swiper-wrapper {
+        height: 40vh;
+    }
+
+    .section3 .designinner .swiper.design {
+        height: 40vh;
+    }
+
+    footer .lastsection .lastinner {
+        padding: 5rem;
+    }
+
+    .lastsection h1 {
+        font-size: 1.5rem;
+        width: 100%;
+
+    }
+
+    .lastsection .last>img {
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width:381px) {
+    .intro .ticket1 .click {
+        top: 33%;
+        left: 68%;
+    }
+
+    .intro .ticket1 .click h3 {
+        font-size: 1.1rem;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(1) {
+        width: 58%;
+        left: 11.5%;
+    }
+
+    .intro .ticket1 .topticket .titi img:nth-child(2) {
+        width: 17.4%;
+        right: 13.1%;
+    }
+
+    header .headertop p {
+        font-size: 0.9rem;
+    }
+
+    header .headertop p::before {
+        background: repeating-linear-gradient(to right, rgba(129, 129, 129, 0.568) 0 4px, transparent 4px 10px);
+    }
+
+    header .headertop p::after {
+        background: repeating-linear-gradient(to right, rgba(129, 129, 129, 0.568) 0 4px, transparent 4px 10px);
+    }
+
+    header .headerinner .headertitle h1 {
+        font-size: 4rem;
+    }
+
+    header .headerinner .headertitle p {
+        font-size: 0.79rem;
+        padding-top: 2%;
+    }
+
+    header .headerwrap .menu ul li a {
+        font-size: 1.3rem;
+    }
+
+    header .headerwrap .menu ul li p {
+        font-size: 1rem;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        left: 5.5%;
+        font-size: 2.5rem;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        left: 2%;
+        font-size: 2rem;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        top: 115px;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 1.1em;
+    }
+
+    main .section1 .castwrap .castright {
+        width: 85%;
+    }
+
+    .section2 .webpage {
+        height: 400px;
+        overflow: hidden;
+    }
+
+    .lastsection h1 {
+        width: 60%;
+    }
+
+    .lastsection .gotop {
+        left: 60%;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:400px) {
+    html {
+        font-size: 10px;
+    }
+
+    .intro .ticket1 .click {
+        top: 37%;
+        left: 66%;
+    }
+
+    .intro .ticket1 .click h3 {
+        font-size: 1.15rem;
+    }
+
+    .introtext h4 {
+        left: 26%;
+    }
+
+    .introtext p {
+        left: 27%;
+    }
+
+    header {
+        height: 75vh;
+    }
+
+    header .headertop p {
+        font-size: 0.9rem;
+    }
+
+    header .headerinner .headertitle {
+        padding-top: 30%;
+    }
+
+    main .section1 {
+        background: none;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        left: 13%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        left: 10%;
+    }
+
+    main .section1 .castwrap {
+        padding: 2rem 1rem 1rem 2rem;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        margin: 0px 0 30px 28px;
+        top: 125px;
+        width: 80%;
+    }
+
+    main .section1 .castwrap .castright {
+        width: 100%;
+    }
+
+    main .section1 .castwrap .castright .info .edu h3 {
+        background: url('../img/educationvetor.jpg')no-repeat center/110px;
+
+    }
+
+    main .section1 .castwrap .castright .info .contact h3 {
+        background: url('../img/contactvetor.jpg')no-repeat center/85px;
+    }
+
+    main .section1 .castwrap .castright .info .exper h3 {
+        background: url('../img/Experiencevector.jpg')no-repeat center/115px;
+    }
+
+    main .section1 .castwrap .castright .info .skills h3 {
+        background: url('../img/skillsvector.jpg')no-repeat center/75px;
+    }
+
+    main .section1 .castwrap .castright .info .skills .skicon {
+        padding: 0.4rem;
+    }
+
+    .section2 .webpage {
+        height: 480px;
+        overflow: hidden;
+    }
+
+    .section3 .designinner .film .dashbottom {
+        bottom: 104px;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after {
+        top: 45%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-wrapper {
+        height: 40vh;
+    }
+
+    .section3 .designinner .swiper.design {
+        height: 40vh;
+    }
+
+
+    .lastsection h1 {
+        width: 90%;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:320px) {
+    header {
+        height: 65vh;
+    }
+
+    main .section1 .castwrap .castleft .name h1 {
+        left: 8%;
+    }
+
+    main .section1 .castwrap .castleft .name p {
+        left: 2%;
+    }
+
+    .section3 .designinner .swiper.design .swiper-wrapper {
+        height: 34vh;
+    }
+
+    .section3 .designinner .swiper.design {
+        height: 34vh;
+    }
+
+
+    .section3 .designinner .swiper.design .swiper-wrapper .after p {
+        font-size: 1.5rem;
+    }
+
+    .section3 .designinner .swiper.design .swiper-slide .after {
+        top: 45%;
+    }
+
+    header .headerwrap .menu ul li a {
+        font-size: 1.3rem;
+    }
+
+    header .headerwrap .menu ul li p {
+        font-size: 1rem;
+    }
+
+    main .section1 .castwrap .castleft .union {
+        width: 75%;
+        margin-left: 4rem;
+        top: 100px;
+    }
+
+    main .section1 .castwrap .castleft .tag p {
+        font-size: 0.9rem;
+    }
+
+    main .section1 .castwrap .castleft img:nth-child(1) {
+        margin-bottom: 12%;
+    }
+
+    main .section1 .castwrap .castright .flex,
+    .exper p {
+        font-size: 1.1rem;
+
+    }
+
+    main .section1 .castwrap .castright {
+        width: 80%;
+    }
+
+    .section2 .webpage {
+        height: 360px;
+    }
+
+    .lastsection h1 {
+        width: 60%;
+    }
+
+}
